@@ -1,7 +1,7 @@
 # hmrc-apprentice-scalajs
 ScalaJs starter project for HMRC's scala school
 
-###How to run it
+### How to run it
 Go to the project's root folder (where the build.sbt file is)
 
 Start sbt: `sbt`
